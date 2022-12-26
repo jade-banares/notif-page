@@ -859,6 +859,26 @@ video {
   color: hsl(219 85% 26% / var(--tw-text-opacity));
 }
 
+.text-lightGrayishBlue1 {
+  --tw-text-opacity: 1;
+  color: hsl(211 68% 94% / var(--tw-text-opacity));
+}
+
+.text-lightGrayishBlue2 {
+  --tw-text-opacity: 1;
+  color: hsl(205 33% 90% / var(--tw-text-opacity));
+}
+
+.text-grayishBlue {
+  --tw-text-opacity: 1;
+  color: hsl(219 14% 63% / var(--tw-text-opacity));
+}
+
+.text-darkGrayishBlue {
+  --tw-text-opacity: 1;
+  color: hsl(219 12% 42% / var(--tw-text-opacity));
+}
+
 .shadow-lg {
   --tw-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
   --tw-shadow-colored: 0 10px 15px -3px var(--tw-shadow-color), 0 4px 6px -4px var(--tw-shadow-color);
